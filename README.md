@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Sy
+<h1>My name is Sy</h1>
 
 
 <!--
